@@ -56,13 +56,13 @@
 
 ```sh
 ## front end
-git clone https://github.com/Moniruzzaman2525/Personal-Portfolio-Blog-Website.git
+git clone https://github.com/nayan5572/my-personal-portfolio-client
 cd Personal-Portfolio-Blog-Website
 ```
 
 ```sh
 ## backend
-git clone https://github.com/Moniruzzaman2525/personal-portfolio-server.git
+git clone https://github.com/nayan5572/personal-portfolio-server
 cd personal-portfolio-server
 ```
 
