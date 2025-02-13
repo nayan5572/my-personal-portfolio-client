@@ -29,7 +29,10 @@ const LoginPage = () => {
         <div className="flex flex-col space-y-4">
           <button
             onClick={() =>
-              signIn("google", { callbackUrl: "http://localhost:3000" })
+              signIn("google", {
+                callbackUrl:
+                  "https://personal-portfolio-blog-client-pink.vercel.app",
+              })
             }
             className="flex items-center justify-center px-4 py-3 border border-gray-300 rounded-lg shadow-sm bg-white hover:bg-gray-100 transition"
           >
@@ -40,7 +43,10 @@ const LoginPage = () => {
           </button>
           <button
             onClick={() =>
-              signIn("github", { callbackUrl: "http://localhost:3000" })
+              signIn("github", {
+                callbackUrl:
+                  "https://personal-portfolio-blog-client-pink.vercel.app",
+              })
             }
             className="flex items-center justify-center px-4 py-3 border border-gray-300 rounded-lg shadow-sm bg-white hover:bg-gray-100 transition text-gray-900"
           >

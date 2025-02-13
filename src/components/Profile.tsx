@@ -60,15 +60,6 @@ const HeroSection = () => {
                 halder25572@gmail.com
               </a>
             </p>
-            <p className="text-gray-700 font-medium">
-              🌐 <span className="font-semibold">Website:</span>{" "}
-              <a
-                href="http://localhost:3000/"
-                className="text-[#78CC6D] hover:underline"
-              >
-                http://localhost:3000
-              </a>
-            </p>
           </div>
           <motion.div
             initial={{ opacity: 0, scale: 0.8 }}
