@@ -74,8 +74,8 @@ const HeroSection = () => {
               Contact Me
             </Link>
             <a
-              href="/resume.pdf"
-              download="Nayan_Halder_Resume.pdf"
+              href="/Nayan Halder, MERN Stack Web Developer.pdf"
+              download="Nayan Halder, MERN Stack Web Developer.pdf"
               className="inline-block px-6 py-3 bg-[#78CC6D] text-white font-medium text-lg rounded-lg shadow-md hover:bg-[#78CC6D] transition duration-300"
             >
               📄 Download Resume
