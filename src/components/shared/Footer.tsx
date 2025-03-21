@@ -128,7 +128,7 @@ export default function Footer() {
                 href="https://www.creative-tim.com"
                 className="text-gray-500 hover:text-gray-800"
               >
-                Creative Tim
+                Nayan Halder
               </Link>
               .
             </p>
